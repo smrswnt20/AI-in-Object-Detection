@@ -12,4 +12,8 @@ Step2-  Train your AI model
   4.Install ImageAI
       pip3 install imageai --upgrade
       
-Step 3-Create a Python file and paste import 
+Step 3-Create a Python file and paste import trainer.py
+
+Step 4- Create 2nd Python file and paste training module.py
+
+Step 5 - Run both programs
